@@ -4,10 +4,6 @@
 
 ---
 
-## Tools and Libraries
-
-
-
 ## Data Sources
 
 The dataset was created using the official Telegram API to collect messages from the following news channels with open discussion:
